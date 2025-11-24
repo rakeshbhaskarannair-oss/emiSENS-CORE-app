@@ -6,3 +6,4 @@ matplotlib
 scipy
 statsmodels
 openpyxl
+xlsxwriter
